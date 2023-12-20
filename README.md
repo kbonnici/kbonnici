@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  Based in Victoria, BC
-* 🖥️  See my portfolio at [kbonnici.github.io](http://kbonnici.github.io)
+* 🖥️  See [my portfolio](http://kbonnici.github.io)
 * 🧠  Improving my knowledge in advanced data structures & algorithms
 * 💪🏼  Upping my CSS muscles 
 * 🚀  Searching for the next stepping stone in my career
