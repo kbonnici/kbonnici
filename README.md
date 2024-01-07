@@ -8,7 +8,7 @@ Software Engineer
 * 🖥️  See [my portfolio](http://kbonnici.github.io)
 * 🧠  Improving my knowledge in advanced data structures & algorithms
 * 💪🏼  Upping my CSS muscles 
-* 🚀  Searching for the next stepping stone in my career
+* 🚀  My [Neovim Config](https://github.com/kbonnici/dotfiles/tree/main/neovim/.config/nvim) goes blazingly fast
 * ⚡  I'm from a country you've never heard of 🤫
 
 ### Skills
