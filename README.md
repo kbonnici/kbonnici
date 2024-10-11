@@ -4,11 +4,8 @@ Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785
 Software Engineer
 -----------------
 
-* 🌍  Based in Victoria, BC
-* 🖥️  See [my portfolio](http://kbonnici.github.io)
-* 🧠  Improving my knowledge in advanced data structures & algorithms
-* 💪🏼  Upping my CSS muscles 
-* 🚀  My [Neovim Config](https://github.com/kbonnici/dotfiles/tree/main/neovim/.config/nvim) goes blazingly fast
+* 🌍  Based in BC, Canada 🇨🇦
+* 🚀  My [Neovim Config](https://github.com/kbonnici/dotfiles/tree/main/neovim/.config/nvim)
 * ⚡  I'm from a country you've never heard of 🤫
 
 ### Skills
